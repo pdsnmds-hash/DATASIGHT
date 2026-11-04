@@ -1,0 +1,24 @@
+.gradle/
+.kotlin/
+local.properties
+**/build/
+*.iml
+
+# Private signing material and local configuration
+*.jks
+*.keystore
+*.p12
+*.pfx
+**/upload-key.properties
+release/signing/
+generated-signing/
+.env
+.env.*
+# Generated binaries, archives and review artifacts
+*.apk
+*.aab
+*.zip
+artifacts/
+store-listing/
+__pycache__/
+*.pyc

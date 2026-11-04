@@ -1,0 +1,7 @@
+<resources>
+ <color name="brand_icon_background">#F7F8FC</color>
+ <color name="brand_splash_background">#F7F8FC</color>
+ <style name="AppTheme.Starting" parent="AppTheme">
+  <item name="android:windowBackground">@drawable/launch_background</item>
+ </style>
+</resources>

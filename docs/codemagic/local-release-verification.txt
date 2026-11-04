@@ -1,0 +1,3 @@
+Verified signed AAB; uploaded key matches; four ABI present; no keystore embedded.
+Signer SHA-256 (public): 2c7dc037223bec419135040d959cae5b3b701a5a4c9a505c32468b023c6fd133
+AAB SHA-256: 08e2d65d33bd570cf9d723934b0d4e725d3443e8bfa8f4283f9fd512b12af8f7

@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "updated": {
+    "fr": "3 novembre 2026",
+    "en": "3 November 2026"
+  },
+  "sections": [
+    {
+      "id": "scope",
+      "title": {
+        "fr": "1. Objet et contact",
+        "en": "1. Scope and contact"
+      },
+      "text": {
+        "fr": "DATASIGHT Prompt Builder est un outil de productivité qui assemble des prompts à partir de règles et de modèles locaux. Il ne fait pas appel à un modèle d’intelligence artificielle. Cette politique décrit les données utilisées par l’application Android et les actions qui peuvent les transmettre à un autre service.\n\nPour toute question sur l’application ou cette politique, contactez DATASIGHT aux coordonnées indiquées à la fin du document.",
+        "en": "DATASIGHT Prompt Builder is a productivity tool that assembles prompts using local rules and templates. It does not call an artificial intelligence model. This policy describes the data used by the Android app and the actions that may pass it to another service.\n\nFor questions about the app or this policy, contact DATASIGHT using the details at the end of this document."
+      }
+    },
+    {
+      "id": "local_data",
+      "title": {
+        "fr": "2. Données conservées sur l’appareil",
+        "en": "2. Data stored on your device"
+      },
+      "text": {
+        "fr": "L’application conserve localement les tâches, contextes, documents ou extraits de code que vous saisissez, les paramètres de construction, les prompts générés ou modifiés, les brouillons et les titres choisis. Elle conserve aussi les catégories, sous-types, identifiants de modèles, langues, dates de création et de modification et favoris nécessaires à la gestion de ces enregistrements.\n\nLa langue de l’interface, la préférence de thème et les modèles favoris sont enregistrés dans les réglages locaux. Les brouillons sont sauvegardés automatiquement pour permettre la reprise du travail. Vous n’avez pas à fournir votre nom, votre téléphone ou votre email pour utiliser le constructeur.",
+        "en": "The app stores locally the tasks, context, documents or code excerpts you enter, builder settings, generated or edited prompts, drafts and chosen titles. It also stores categories, subtypes, template identifiers, languages, creation and modification dates and favorites needed to manage these records.\n\nInterface language, theme preference and favorite templates are stored in local settings. Drafts are saved automatically so you can resume work. You do not have to provide your name, phone number or email address to use the builder."
+      }
+    },
+    {
+      "id": "purposes",
+      "title": {
+        "fr": "3. Utilisation locale, sans suivi",
+        "en": "3. Local use without tracking"
+      },
+      "text": {
+        "fr": "Ces données servent à former, afficher, modifier, rechercher et organiser vos prompts, reprendre les brouillons et appliquer vos préférences. Les textes saisis ne sont pas traduits automatiquement.\n\nL’application ne crée pas de compte, n’utilise pas de serveur pour le constructeur et ne transmet pas automatiquement vos textes à DATASIGHT ou à un fournisseur d’IA. Elle n’intègre ni publicité, ni SDK d’analyse d’usage ou de suivi, ni service de diagnostic à distance. Elle ne consulte pas d’identifiant publicitaire.",
+        "en": "This data is used to assemble, display, edit, search and organize prompts, resume drafts and apply your preferences. User-entered text is not translated automatically.\n\nThe app does not create an account, use a server for the builder or automatically send your text to DATASIGHT or an AI provider. It includes no advertising, usage analytics or tracking SDK, or remote diagnostics service. It does not access an advertising identifier."
+      }
+    },
+    {
+      "id": "sharing",
+      "title": {
+        "fr": "4. Copie, partage et services externes",
+        "en": "4. Copying, sharing and external services"
+      },
+      "text": {
+        "fr": "Les actions Copier et Partager sont déclenchées par vous. Copier place le texte dans le presse-papiers Android ; Partager ouvre le sélecteur Android et transmet le texte au destinataire que vous choisissez. Le résultat est consultable avant le partage. L’accès au presse-papiers et sa durée de conservation dépendent aussi d’Android et des autres applications.\n\nSi vous collez ou envoyez un prompt dans un service tiers, son traitement dépend des règles de ce service. DATASIGHT Prompt Builder ne contrôle pas cette utilisation ultérieure. Android, les boutiques d’applications et les fournisseurs de services externes appliquent leurs propres politiques.",
+        "en": "Copy and Share are actions you trigger. Copy places the text on the Android clipboard; Share opens the Android chooser and passes the text to the recipient you select. You can review the result before sharing. Clipboard access and retention also depend on Android and other apps.\n\nIf you paste or send a prompt to a third-party service, processing depends on that service’s rules. DATASIGHT Prompt Builder does not control that later use. Android, app stores and external service providers have their own policies."
+      }
+    },
+    {
+      "id": "contact",
+      "title": {
+        "fr": "5. Contacter DATASIGHT",
+        "en": "5. Contacting DATASIGHT"
+      },
+      "text": {
+        "fr": "Une demande préparée dans l’application contient par défaut seulement le domaine choisi et le nom de tâche que vous renseignez. Le prompt complet n’est ajouté que si vous le choisissez explicitement. Vous pouvez consulter le message avant d’ouvrir votre application email. L’ouverture du client email ne signifie pas que le message a été envoyé.\n\nLe bouton téléphone ouvre le composeur sans lancer d’appel. Le bouton carte ouvre l’adresse de DATASIGHT dans une application externe, sans lire votre position.\n\nSi vous choisissez ensuite d’envoyer un email ou de contacter DATASIGHT, les informations que vous communiquez sont reçues dans le cadre de votre demande et sont aussi traitées par les services que vous utilisez. Cette politique décrit l’application ; elle ne fixe pas une durée de conservation ou un hébergement des échanges hors application qui ne seraient pas documentés. Contactez DATASIGHT pour toute précision concernant ces échanges.",
+        "en": "An inquiry prepared in the app includes by default only the selected service and the task name you enter. The full prompt is added only if you explicitly choose it. You can review the message before opening your email app. Opening an email client does not mean the message has been sent.\n\nThe phone button opens the dialer without placing a call. The map button opens DATASIGHT’s address in an external app without reading your location.\n\nIf you then choose to send an email or contact DATASIGHT, the information you provide is received in connection with your inquiry and is also processed by the services you use. This policy describes the app; it does not invent retention periods or hosting arrangements for exchanges outside the app. Contact DATASIGHT for details about those exchanges."
+      }
+    },
+    {
+      "id": "backup",
+      "title": {
+        "fr": "6. Sauvegardes et fichiers exportés",
+        "en": "6. Backups and exported files"
+      },
+      "text": {
+        "fr": "Vous pouvez exporter un prompt en TXT ou créer une sauvegarde JSON avec les prompts enregistrés, les brouillons et les réglages transférables. Ces exports ne sont pas chiffrés par l’application. Le système Android vous laisse choisir leur emplacement ; un fournisseur de stockage que vous sélectionnez peut conserver ou synchroniser les fichiers selon ses propres règles.\n\nL’import JSON est vérifié avant la proposition de remplacement. Il indique le nombre d’enregistrements et demande confirmation avant la modification des données. Un fichier rejeté par la validation ne modifie pas les données locales.\n\nLa configuration Android de l’application désactive la sauvegarde cloud automatique et exclut ses fichiers privés du backup et du transfert système entre appareils. L’application ne crée pas d’autre copie distante automatique. Les mécanismes du système et les copies que vous réalisez restent soumis à votre version Android, à votre appareil et aux services que vous choisissez.\n\nUne copie temporaire privée peut être créée pour terminer un export malgré une interruption du processus. Elle est nettoyée à la fin ou à l’annulation de l’export et par l’effacement des données locales. Une interruption peut la laisser dans le cache jusqu’à ce nettoyage.",
+        "en": "You can export a prompt as TXT or create a JSON backup containing saved prompts, drafts and transferable settings. These exports are not encrypted by the app. Android lets you choose their location; a storage provider you select may retain or synchronize files under its own rules.\n\nJSON imports are checked before replacement is offered. The app shows the record count and asks for confirmation before changing data. A file rejected by validation does not change local data.\n\nThe app’s Android configuration disables automatic cloud backup and excludes its private files from backup and system device-to-device transfer. The app creates no other automatic remote copy. System mechanisms and copies you make remain subject to your Android version, device and chosen services.\n\nA temporary private copy may be created to complete an export after a process interruption. It is cleaned up when export completes or is cancelled, and when local data is cleared. An interruption may leave it in the cache until that cleanup."
+      }
+    },
+    {
+      "id": "retention",
+      "title": {
+        "fr": "7. Conservation et suppression",
+        "en": "7. Retention and deletion"
+      },
+      "text": {
+        "fr": "Vos prompts et brouillons restent sur l’appareil jusqu’à leur suppression, leur remplacement par un import confirmé ou l’effacement des données locales. Les réglages restent jusqu’à leur modification ou leur réinitialisation. Vous pouvez supprimer un enregistrement depuis Mes prompts avec une possibilité d’annulation immédiate, ou effacer les données locales depuis les paramètres après confirmation. L’effacement global supprime les prompts, les brouillons et les favoris et réinitialise les réglages. La bibliothèque fournie avec l’application reste disponible.\n\nLa désinstallation supprime normalement le stockage privé de l’application selon les règles Android. Supprimer des données dans l’application ne supprime pas les fichiers exportés, le presse-papiers, les messages envoyés ou les copies détenues par d’autres services. Vous devez gérer séparément ces copies.",
+        "en": "Your prompts and drafts remain on your device until you delete them, replace them with a confirmed import or clear local data. Settings remain until changed or reset. You can delete a record from My prompts with an immediate Undo option, or clear local data from Settings after confirmation. Clearing all local data removes prompts, drafts and favorites and resets settings. The bundled template library remains available.\n\nUninstalling normally removes the app’s private storage under Android’s rules. Deleting data in the app does not delete exported files, the clipboard, sent messages or copies held by other services. You must manage those copies separately."
+      }
+    },
+    {
+      "id": "security",
+      "title": {
+        "fr": "8. Accès et sécurité",
+        "en": "8. Access and security"
+      },
+      "text": {
+        "fr": "L’application n’exige pas de permission Internet pour le constructeur et la bibliothèque. Elle ne demande pas l’accès aux contacts, au microphone, à la caméra ou à la géolocalisation. L’accès à un fichier importé ou exporté passe par le sélecteur de fichiers Android et votre choix explicite.\n\nLes données sont placées dans le stockage privé de l’application. L’application n’ajoute pas de chiffrement spécifique à ses textes ou à ses sauvegardes et ne fournit pas d’effacement sécurisé du support. La protection dépend également du verrouillage, des mises à jour et de la sécurité de votre appareil. Limitez vos saisies aux informations nécessaires à la tâche et vérifiez les textes avant de les transmettre.",
+        "en": "The builder and library do not require Internet permission. The app does not request access to contacts, microphone, camera or location. Access to an imported or exported file uses Android’s file picker and your explicit selection.\n\nData is kept in the app’s private storage. The app does not add specific encryption for its text or backups and does not provide secure media erasure. Protection also depends on your device lock, updates and security. Limit input to information needed for the task and review text before sending it elsewhere."
+      }
+    },
+    {
+      "id": "control",
+      "title": {
+        "fr": "9. Vos choix et vos demandes",
+        "en": "9. Your choices and requests"
+      },
+      "text": {
+        "fr": "Vous pouvez consulter et corriger vos textes, gérer les favoris, exporter vos données et supprimer les enregistrements ou les données locales. DATASIGHT n’a pas d’accès distant aux textes qui restent dans votre application ; une demande adressée par email ne permet donc pas à DATASIGHT de lire ou de supprimer directement ce stockage local.\n\nPour une question concernant cette politique ou les informations que vous avez choisi de communiquer à DATASIGHT hors application, utilisez les coordonnées ci-dessous afin de préciser votre demande d’accès, de rectification ou de suppression selon les droits applicables. Vous pouvez également vous adresser à l’autorité de protection des données compétente, notamment la CNIL en France (cnil.fr).",
+        "en": "You can view and correct your text, manage favorites, export data and delete records or local data. DATASIGHT has no remote access to text that remains in your app; an email request therefore does not let DATASIGHT directly read or delete that local storage.\n\nFor a question about this policy or information you chose to communicate to DATASIGHT outside the app, use the contact details below to explain an access, correction or deletion request under applicable rights. You may also contact the competent data protection authority, including the CNIL in France (cnil.fr)."
+      }
+    },
+    {
+      "id": "updates",
+      "title": {
+        "fr": "10. Évolution de cette politique",
+        "en": "10. Changes to this policy"
+      },
+      "text": {
+        "fr": "Cette politique concerne la version actuelle de DATASIGHT Prompt Builder. Une évolution des fonctionnalités ou des traitements doit être reflétée dans une version mise à jour de ce texte. La date affichée identifie la version consultée. La politique reste accessible sans connexion depuis les paramètres de l’application.",
+        "en": "This policy covers the current version of DATASIGHT Prompt Builder. Changes to features or data handling must be reflected in an updated version of this text. The displayed date identifies the version you are reading. The policy remains available offline from the app’s settings."
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "yaml_and_bash_syntax": "PASS",
+  "signing_bridge_paths_permissions_no_overwrite_required_variables": "PASS",
+  "java_properties_unicode_and_special_character_roundtrip": "PASS",
+  "sdkmanager_newest_revision_exact_packages_missing_tool_and_failure": "PASS",
+  "verifier_signed_fixture_unsigned_missing_abi_and_private_file_rejection": "PASS",
+  "real_release_bundle_temporary_key_isolated_checkout": "PASS; test AAB and key deleted, not deliverable",
+  "temporary_fixture_keys": "deleted with temporary directory",
+  "production_key_generation": "NOT RUN; Codemagic only",
+  "cloud_build": "NOT RUN",
+  "debug_unit_tests": "PASS; 139 tests, no failures/errors",
+  "lint_debug": "PASS; warnings remain, no errors",
+  "assemble_debug": "PASS",
+  "unsigned_release_configuration": "PASS; checkUploadSigning rejects missing properties; dependency graph places gate before packageReleaseBundle",
+  "gitignore_private_material": "PASS; checked in temporary Git repository",
+  "repository_state": "working folder is not a Git repository; no remote or cloud build configured",
+  "sdk_repository_packages": "platforms;android-36 and build-tools;36.0.0 verified in official repository2-3.xml",
+  "root_yaml": "ONE-TIME key generator",
+  "cloud_key_generation": "NOT RUN",
+  "cloud_aab_build": "NOT RUN"
+}
